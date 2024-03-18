@@ -1,3 +1,7 @@
+# Live URL
+
+> https://crypto-react-chi.vercel.app/Signin
+
 # React JS
 
 To run this project in local
@@ -18,3 +22,18 @@ Below is the command for development
 # API USED
 
 > https://docs.coincap.io/
+
+# Technologies Used
+
+> React
+> React-router-dom
+> axios
+> MaterialUI
+> TailwindCSS(Not much used because of MaterialUI)
+> local storage
+
+# Concepts
+
+> Form Validation
+> Api fetching
+> Deployment through vercel
